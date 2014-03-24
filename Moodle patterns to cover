@@ -1,0 +1,6 @@
+dmllib.php line 1266, $db->Execute('DELETE FROM '. $CFG->prefix . $table .' '. $select);
+
+
+$DB->execute_sql();
+
+
